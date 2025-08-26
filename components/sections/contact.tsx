@@ -47,13 +47,13 @@ const socialLinks = [
     icon: ExternalLink,
     label: 'Portfolio',
     value: 'Live Site',
-    href: 'https://my-portfolio-zeta-nine-53.vercel.app/'
+    href: 'https://adeola-portfolio-orpin.vercel.app'
   },
   {
     icon: MessageSquare,
     label: 'Blog',
     value: 'Articles',
-    href: 'https://dexmega.thsite.top/blog'
+    href: 'https://medium.com/@adeolalasisi6'
   }
 ];
 
@@ -98,10 +98,10 @@ export function Contact() {
           className="text-center mb-16"
         >
           <h2 className="font-heading text-4xl md:text-5xl font-bold mb-6">
-            Let's <span className="text-gradient">Connect</span>
+            Let&apos;s <span className="text-gradient">Connect</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Ready to collaborate on your next Web3 or Web2 project? Let's build something amazing together.
+            Ready to collaborate on your next Web3 or Web2 project? Let&apos;s build something amazing together.
           </p>
         </motion.div>
 
@@ -114,12 +114,12 @@ export function Contact() {
             viewport={{ once: true }}
             className="space-y-8"
           >
-            <div>
+            <div className="glass-card p-6 rounded-3xl">
               <h3 className="font-heading text-2xl font-bold mb-6">Get in Touch</h3>
               <p className="text-muted-foreground leading-relaxed mb-8">
-                I'm always excited to discuss new opportunities, innovative projects, 
+                I&apos;m always excited to discuss new opportunities, innovative projects, 
                 or potential collaborations. Whether you need a Web3 dApp, a modern web application, 
-                or technical consultation, I'd love to hear from you.
+                or technical consultation, I&apos;d love to hear from you.
               </p>
 
               <div className="space-y-4">
@@ -287,10 +287,10 @@ export function Contact() {
         >
           <div className="text-center">
             <p className="text-muted-foreground mb-4">
-              Built with Next.js 14, TypeScript, Tailwind CSS, Framer Motion, and shadcn/ui
+              Great Quality Code, Great Results
             </p>
             <p className="text-sm text-muted-foreground">
-              © 2024 Adeola Lasisi. All rights reserved.
+              © 2025 Adeola Lasisi. All rights reserved.
             </p>
           </div>
         </motion.footer>

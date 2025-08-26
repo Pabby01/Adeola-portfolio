@@ -23,7 +23,7 @@ const blogPosts = [
     readTime: '6 min read',
     tags: ['Web3', 'Marketplace', 'Solana', 'UX'],
     featured: true,
-    link: 'https://dexmega.thsite.top/blog'
+    link: 'https://medium.com/@adeolalasisi6'
   },
   {
     title: 'DePIN in Practice: Soul Sanctuary Case Study',
@@ -41,7 +41,7 @@ const blogPosts = [
     readTime: '7 min read',
     tags: ['React', 'State Management', 'Performance'],
     featured: false,
-    link: 'https://dexmega.thsite.top/blog'
+    link: 'https://medium.com/@adeolalasisi6'
   },
   {
     title: 'Building Responsive Trading UIs',
